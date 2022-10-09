@@ -1,2 +1,9 @@
-# Sentiment-Analysis
-Sentiment Analysis to Korean
+## 경상국립대학교 파이썬을 활용한 빅데이터 분석 경진대회
+
+### 우수상
+
+#### 1. Twiiter에서 특정 키워드를 검색하여 작성된 글 데이터를 수집
+
+#### 2. Sentiment Analysis API를 사용하여 글을 감성분석한 후 점수 산출
+
+#### 3. 보고서 
